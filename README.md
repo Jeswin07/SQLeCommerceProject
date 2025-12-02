@@ -148,8 +148,7 @@ This project can be used for:
 
 ## 7. Author
 
-**Jeswin K Reji**
-Aspiring Data Scientist
-Aspiring Data Scientist
+**Jeswin K Reji**  
+Aspiring Data Scientist  
 [jeswinkr7@gmail.com](mailto:jeswinkr7@gmail.com)
 
