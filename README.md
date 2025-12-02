@@ -55,8 +55,8 @@ Relationships:
 * Orders → Payments (1-to-1)
 * Customers ↔ Products via Order_Items (many-to-many)
 
-The ER diagram provides a full structure overview.
-ER Diagram.png
+The ER diagram provides a full structure overview.  
+[ER Diagram.png](https://github.com/Jeswin07/SQLeCommerceProject/blob/main/ER%20Diagram.png)
 
 ## 4. Features Included in the Project
 
