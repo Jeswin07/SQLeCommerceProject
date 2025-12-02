@@ -56,7 +56,7 @@ Relationships:
 * Customers ↔ Products via Order_Items (many-to-many)
 
 The ER diagram provides a full structure overview.
-
+ER Diagram.png
 
 ## 4. Features Included in the Project
 
